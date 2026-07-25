@@ -1,0 +1,6 @@
+{
+  "name": "Appromptizer",
+  "description": "Generate comprehensive, production-grade SaaS Master Prompts complete with database schemas, state APIs, page specifications, business logic, and verification checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
